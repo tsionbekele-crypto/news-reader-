@@ -1,0 +1,6 @@
+{
+  "name": "Flutter News Reader - Assignment 2",
+  "description": "A robust Flutter News Reader app implementing NewsAPI, with clean architecture, custom error handling, and immutable models. Built for the Addis Ababa University Mobile Dev course.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
